@@ -62,7 +62,7 @@ I am a Full stack & Mobile & AI app Developer.
 <br />
 
 <br />
-<Card className="mt-6 bg-gradient-to-br from-secondary/40 to-slate-900/50 border-blue-500/30 p-6 hover:border-blue-400/50 transition-all duration-300">
+
           <h4 className="text-lg font-semibold text-blue-400 mb-4">Contribution Graph</h4>
           <div className="flex items-center justify-center overflow-x-auto">
             <img
@@ -87,7 +87,7 @@ I am a Full stack & Mobile & AI app Developer.
               }}
             />
           </div>
-        </Card>
+
 <div align="center">
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
