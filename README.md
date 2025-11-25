@@ -54,3 +54,10 @@ I am a Full stack & Mobile & AI app Developer.
 [aureuserp_link]: https://github.com/aureuserp/aureuserp
 [ftnft_link]: https://ftnft.com
 [ftnft_am_link]: https://ftnft.am
+
+
+<div align="center">
+
+> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+
+</div>
