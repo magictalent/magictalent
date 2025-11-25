@@ -1,6 +1,4 @@
-
-
-###<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> Hi there, I'm magictalent 👋
+###Hi there, I'm magictalent 👋
 
 ## About Me
 
@@ -14,8 +12,7 @@ I am a Full stack & Mobile & AI app Developer.
 - ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-&nbsp;
+
 ### Languages and Tools:
 
 <code><img title="HTMl" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -49,7 +46,8 @@ I am a Full stack & Mobile & AI app Developer.
 <code><img title="Firebase" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" /></code>
 
 <br />
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+&nbsp;
 ---
 
 [crm_link]: https://github.com/magictalent/laravel-crm
@@ -59,7 +57,7 @@ I am a Full stack & Mobile & AI app Developer.
 [ftnft_am_link]: https://ftnft.am
 <br />
 <p align="center">
-  <a href="https://github.com/GlebKodrik">
+  <a href="https://github.com/magictalent">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GlebKodrik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GlebKodrik&layout=compact&langs_count=8&theme=algolia"/>
   </a>
