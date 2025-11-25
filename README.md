@@ -63,7 +63,7 @@ I am a Full stack & Mobile & AI app Developer.
 
 <br />
 
-          <h4 className="text-lg font-semibold text-blue-400 mb-4">Contribution Graph</h4>
+          Contribution Graph
           <div className="flex items-center justify-center overflow-x-auto">
             <img
               src={`https://github-readme-activity-graph.vercel.app/graph?username=${githubUsername}&custom_title=magictalent's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=00000000&color=a855f7&line=60a5fa&point=e2e8f0&area=true&area_color=a855f7`}
