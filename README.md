@@ -1,4 +1,4 @@
-###Hi there, I'm magictalent 👋
+### Hi there, I'm magictalent 👋
 
 ## About Me
 
@@ -49,6 +49,7 @@ I am a Full stack & Mobile & AI app Developer.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 &nbsp;
+<br />
 ---
 
 [crm_link]: https://github.com/magictalent/laravel-crm
@@ -56,6 +57,8 @@ I am a Full stack & Mobile & AI app Developer.
 [aureuserp_link]: https://github.com/aureuserp/aureuserp
 [ftnft_link]: https://ftnft.com
 [ftnft_am_link]: https://ftnft.am
+<br />
+
 <br />
 <p align="center">
   <a href="https://github.com/magictalent">
