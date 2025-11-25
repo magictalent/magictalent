@@ -3,7 +3,7 @@
 <!--
 **magictalent/magictalent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## About Me
+# About Me
 
 I am a dedicated Father, Husband, Son, and passionate Developer.
 
@@ -14,7 +14,7 @@ I am a dedicated Father, Husband, Son, and passionate Developer.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
 - ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
 
-### Languages and Tools:
+# Languages and Tools:
 
 <code><img title="HTMl" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img title="CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
