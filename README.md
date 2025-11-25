@@ -62,14 +62,32 @@ I am a Full stack & Mobile & AI app Developer.
 <br />
 
 <br />
-<div>
-<p align="center">
-  <a href="https://github.com/magictalent">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GlebKodrik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GlebKodrik&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-</div>
+<Card className="mt-6 bg-gradient-to-br from-secondary/40 to-slate-900/50 border-blue-500/30 p-6 hover:border-blue-400/50 transition-all duration-300">
+          <h4 className="text-lg font-semibold text-blue-400 mb-4">Contribution Graph</h4>
+          <div className="flex items-center justify-center overflow-x-auto">
+            <img
+              src={`https://github-readme-activity-graph.vercel.app/graph?username=${githubUsername}&custom_title=magictalent's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=00000000&color=a855f7&line=60a5fa&point=e2e8f0&area=true&area_color=a855f7`}
+              alt="GitHub Activity Graph"
+              className="w-full h-auto min-w-[600px]"
+              loading="eager"
+              onError={(e) => {
+                const target = e.target as HTMLImageElement;
+                target.style.display = 'none';
+                const parent = target.parentElement;
+                if (parent && !parent.querySelector('.fallback-graph')) {
+                  parent.innerHTML = `
+                    <div class="fallback-graph w-full text-center py-8">
+                      <div class="text-slate-400 mb-4">Contribution graph temporarily unavailable</div>
+                      <a href="https://github.com/${githubUsername}" target="_blank" rel="noopener noreferrer" class="text-purple-400 hover:text-purple-300 text-sm">
+                        View on GitHub →
+                      </a>
+                    </div>
+                  `;
+                }
+              }}
+            />
+          </div>
+        </Card>
 <div align="center">
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
