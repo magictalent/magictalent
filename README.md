@@ -47,9 +47,7 @@ I am a Full stack & Mobile & AI app Developer.
 
 
 <br />
-<div>
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-</div>
+
 
 
 <br />
