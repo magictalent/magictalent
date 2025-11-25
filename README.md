@@ -47,7 +47,9 @@ I am a Full stack & Mobile & AI app Developer.
 
 
 <br />
-<div><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> </div>
+<div>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</div>
 
 
 <br />
@@ -61,13 +63,14 @@ I am a Full stack & Mobile & AI app Developer.
 <br />
 
 <br />
+<div>
 <p align="center">
   <a href="https://github.com/magictalent">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GlebKodrik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GlebKodrik&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
+</div>
 <div align="center">
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
