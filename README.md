@@ -1,20 +1,17 @@
-# Hi, I'm Magictalent 👋
+### Hi there, I'm Jitendra Singh 👋
 
-<!--
-**magictalent/magictalent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# About Me
+## About Me
 
 I am a dedicated Father, Husband, Son, and passionate Developer.
 
-- 🌱 **Current Project:** Actively developing [AI Agent CRM][crm_link], [DORAK][bagisto_link], [Aureuserp][aureuserp_link], and blockchain projects like [FTNFT][ftnft_link] and [FTNFT Armenia][ftnft_am_link].
+- 🌱 **Current Project:** Actively developing [Krayin CRM][crm_link], [Bagisto][bagisto_link], [Aureuserp][aureuserp_link], and blockchain projects like [FTNFT][ftnft_link] and [FTNFT Armenia][ftnft_am_link].
 - 🥅 **Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies, particularly in Web3 and blockchain.
 - 👨‍💻 **Professional Experience:** Over 11 years of experience in software development, specializing in web, blockchain, and application development. Implemented various token standards including ERC-20, ERC-721 (NFTs), and ERC-1155 (Multi-token) smart contracts.
-- 📚 **Learning:** Continuously improving my skills in Flutter, Vue.js, ReactJS, NextJS, Node.js, Express.js, Solidity, Web3.js, Ethers.js, Tailwind CSS, and modern web development practices.
+- 📚 **Learning:** Continuously improving my skills in Laravel, Vue.js, ReactJS, NextJS, Node.js, Express.js, Solidity, Web3.js, Ethers.js, Tailwind CSS, and modern web development practices.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
 - ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
 
-# Languages and Tools:
+### Languages and Tools:
 
 <code><img title="HTMl" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img title="CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
@@ -50,8 +47,8 @@ I am a dedicated Father, Husband, Son, and passionate Developer.
 
 <img align="left" alt="Jitendra Singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jitendra-webkul&show_icons=true&hide_border=true" />
 
-[crm_link]: https://github.com/magictalent/laravel-crm
-[bagisto_link]: https://github.com/magictalent/bagisto
+[crm_link]: https://github.com/krayin/laravel-crm
+[bagisto_link]: https://github.com/bagisto/bagisto
 [aureuserp_link]: https://github.com/aureuserp/aureuserp
 [ftnft_link]: https://ftnft.com
 [ftnft_am_link]: https://ftnft.am
