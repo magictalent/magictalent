@@ -64,9 +64,11 @@ I am a Full stack & Mobile & AI app Developer.
 <br />
 
           Contribution Graph
+          <p align="center">
+  <a href="https://github.com/magictalent">
           <div className="flex items-center justify-center overflow-x-auto">
             <img
-              src={`https://github-readme-activity-graph.vercel.app/graph?username=${githubUsername}&custom_title=magictalent's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=00000000&color=a855f7&line=60a5fa&point=e2e8f0&area=true&area_color=a855f7`}
+              src={`https://github-readme-activity-graph.vercel.app/graph?username=magictalent&custom_title=magictalent's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=00000000&color=a855f7&line=60a5fa&point=e2e8f0&area=true&area_color=a855f7`}
               alt="GitHub Activity Graph"
               className="w-full h-auto min-w-[600px]"
               loading="eager"
@@ -78,7 +80,7 @@ I am a Full stack & Mobile & AI app Developer.
                   parent.innerHTML = `
                     <div class="fallback-graph w-full text-center py-8">
                       <div class="text-slate-400 mb-4">Contribution graph temporarily unavailable</div>
-                      <a href="https://github.com/${githubUsername}" target="_blank" rel="noopener noreferrer" class="text-purple-400 hover:text-purple-300 text-sm">
+                      <a href="https://github.com/magictalent" target="_blank" rel="noopener noreferrer" class="text-purple-400 hover:text-purple-300 text-sm">
                         View on GitHub →
                       </a>
                     </div>
