@@ -1,3 +1,5 @@
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Привет! Меня зовут Глеб и ниже ты узнаешь чуть больше обо мне:</h2>
+
 ### Hi there, I'm magictalent 👋
 
 ## About Me
@@ -11,6 +13,9 @@ I am a Full stack & Mobile & AI app Developer.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
 - ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
 
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+&nbsp;
 ### Languages and Tools:
 
 <code><img title="HTMl" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -54,7 +59,17 @@ I am a Full stack & Mobile & AI app Developer.
 [aureuserp_link]: https://github.com/aureuserp/aureuserp
 [ftnft_link]: https://ftnft.com
 [ftnft_am_link]: https://ftnft.am
-
+<p align="center">
+  <a href="https://github.com/GlebKodrik">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GlebKodrik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GlebKodrik&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.codewars.com/users/GlebKodrik" target="_blank">
+    <img src="https://www.codewars.com/users/GlebKodrik/badges/large" alt="codewars" />
+    </a>
+</p>
 
 <div align="center">
 
