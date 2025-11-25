@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+
 
 ###<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> Hi there, I'm magictalent 👋
 
@@ -52,23 +52,17 @@ I am a Full stack & Mobile & AI app Developer.
 
 ---
 
-<img align="left" alt="magictalent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=magictalent&show_icons=true&hide_border=true" />
-
 [crm_link]: https://github.com/magictalent/laravel-crm
 [bagisto_link]: https://github.com/magictalent/bagisto
 [aureuserp_link]: https://github.com/aureuserp/aureuserp
 [ftnft_link]: https://ftnft.com
 [ftnft_am_link]: https://ftnft.am
+<br />
 <p align="center">
   <a href="https://github.com/GlebKodrik">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GlebKodrik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GlebKodrik&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</p>
-<p align="center">
-  <a href="https://www.codewars.com/users/GlebKodrik" target="_blank">
-    <img src="https://www.codewars.com/users/GlebKodrik/badges/large" alt="codewars" />
-    </a>
 </p>
 
 <div align="center">
