@@ -7,7 +7,7 @@ I am a Full stack & Mobile & AI app Developer.
 - 🌱 **Current Project:** Actively developing [AI Agent CRM][crm_link], [DORAK][bagisto_link], [Aureuserp][aureuserp_link], and mobile app projects like [AFED AI PRO][ftnft_link] and [Taxi booking Armenia][ftnft_am_link].
 - 🥅 **Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies, particularly in Web3 and blockchain.
 - 👨‍💻 **Professional Experience:** Over 11 years of experience in software development, specializing in web, mobile app, and application development. Implemented various token standards including ERC-20, ERC-721 (NFTs), and ERC-1155 (Multi-token) smart contracts.
-- 📚 **Learning:** Continuously improving my skills in Flutter, Vue.js, ReactJS, NextJS,NestJS, Node.js, Express.js, Solidity, Web3.js, Ethers.js, Tailwind CSS, and modern web development practices.
+- 📚 **Learning:** Continuously improving my skills in Flutter, Vue.js, ReactJS, NextJS, NestJS, Node.js, Express.js, Solidity, Web3.js, Ethers.js, Tailwind CSS, and modern web development practices.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
 - ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
 
@@ -40,9 +40,9 @@ I am a Full stack & Mobile & AI app Developer.
 <code><img title="Redis" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" /></code>
 <code><img title="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img title="Github" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img title="Github" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" /></code>
-<code><img title="Github" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" /></code>
-<code><img title="Github" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/nestjs/nestjs.png" /></code>
+<code><img title="Flutter" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" /></code>
+<code><img title="Firebase" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" /></code>
+<code><img title="NestJS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nest/nest.png"></code>
 
 <br />
 
