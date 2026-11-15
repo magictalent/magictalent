@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Full stack & Mobile & AI app Developer.
+I am a Full stack & AI app Developer.
 
 - 🌱 **Current Project:** Actively developing [AI Agent CRM][crm_link], [DORAK][bagisto_link], [Aureuserp][aureuserp_link], and mobile app projects like [AFED AI PRO][ftnft_link] and [Taxi booking Armenia][ftnft_am_link].
 - 🥅 **Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies, particularly in Web3 and blockchain.
