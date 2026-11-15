@@ -4,12 +4,13 @@
 
 I am a Full stack & AI app Developer.
 
-- 🌱 **Current Project:** Actively developing [AI Agent CRM][crm_link], [DORAK][bagisto_link], [Aureuserp][aureuserp_link], and mobile app projects like [AFED AI PRO][ftnft_link] and [Taxi booking Armenia][ftnft_am_link].
-- 🥅 **Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies, particularly in Web3 and blockchain.
-- 👨‍💻 **Professional Experience:** Over 11 years of experience in software development, specializing in web, mobile app, and application development. Implemented various token standards including ERC-20, ERC-721 (NFTs), and ERC-1155 (Multi-token) smart contracts.
-- 📚 **Learning:** Continuously improving my skills in Flutter, Vue.js, ReactJS, NextJS, NestJS, Node.js, Express.js, Solidity, Web3.js, Ethers.js, Tailwind CSS, and modern web development practices.
-- 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
-- ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
+ Applied Machine Learning Engineer with 13+ years in software engineering and recent senior-level consulting 
+experience supporting AI-native applications, production machine learning systems, and data-intensive product 
+development. Expertise spans Python, machine learning models, classification, retrieval, ranking, embeddings, 
+vector search, inference pipelines, evaluation datasets, model performance metrics, and production deployment 
+patterns. Additional technical interests include distributed systems, API design, observability, cloud architecture, 
+automated testing, and developer tooling. Outside professional work, maintains interest in open-source 
+experimentation, technical learning, and practical applications of artificial intelligence in everyday products.
 
 
 
